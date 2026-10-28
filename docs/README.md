@@ -6,7 +6,7 @@ Adapted from https://github.com/yaoyao-liu/minimal-light at commit dd114c3fef2d9
 
 About Me → Research Interests → Publications → Education → Research Experience → Honors & Awards.
 
-The supplied photo is assets/img/zirui-zou.jpg, shown above the name on desktop and alongside the identity block on small screens. Contact links use accessible inline SVG icons. Only verified destinations are included: email and GitHub. Add Scholar when the actual profile URL is available.
+The supplied photo is assets/img/zirui-zou.jpg, shown above the name on desktop and alongside the identity block on small screens. Contact links use accessible inline SVG icons for email, Google Scholar, and GitHub. The Google Scholar profile URL supplied by Zirui Zou is https://scholar.google.com/citations?user=7cErvwkAAAAJ&hl=zh-CN.
 
 The publication uses a two-column layout: the unchanged PPTA method PNG and two official benchmark animations on the left, with the title, authors, venue, and summary on the right. Narrow screens stack the content. POGEMA uses the official animated SVG from its A* quick-start example; RWARE uses the original GIF from its repository. These demonstrate the environments, not PPTA results. See assets/THIRD-PARTY.md for pinned sources and licenses. Education and Research Experience remain independent sections.
 
