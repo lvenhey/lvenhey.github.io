@@ -8,11 +8,11 @@ About Me → Research Interests → Publications → Education → Research Expe
 
 The supplied photo is assets/img/zirui-zou.jpg, shown above the name on desktop and alongside the identity block on small screens. Contact links use accessible inline SVG icons. Only verified destinations are included: email and GitHub. Add Scholar when the actual profile URL is available.
 
-Publication figures consist of the unchanged PPTA method PNG above two vector benchmark panels. The latter are viewBox crops of the author's original Fig3_coordination.svg; scientific content is preserved. Education and Research Experience remain independent sections.
+The publication uses a two-column layout: the unchanged PPTA method PNG and two official benchmark animations on the left, with the title, authors, venue, and summary on the right. Narrow screens stack the content. POGEMA uses the official animated SVG from its A* quick-start example; RWARE uses the original GIF from its repository. These demonstrate the environments, not PPTA results. See assets/THIRD-PARTY.md for pinned sources and licenses. Education and Research Experience remain independent sections.
 
 ## User-confirmed content
 
-Authors: Zirui Zou, Qiuguo Zhu. Latent Verse: Research Assistant, July 2026–present. TEA Lab: Research Intern, February–July 2026, supervised by Prof. Huazhe Xu. Zhejiang University RoboCup: Team Leader, 3D Simulation, October 2024–May 2026. Incoming master's enrollment is in the fall; no year or M.Sc./M.Eng. degree type is inferred.
+Authors: Zirui Zou, Qiuguo Zhu. Latent Verse: Research Intern, July 2026–present. TEA Lab: Research Intern, February–July 2026, supervised by Prof. Huazhe Xu. Zhejiang University RoboCup: Team Leader, 3D Simulation, October 2024–May 2026. Incoming master's enrollment is in the fall; no year or M.Sc./M.Eng. degree type is inferred.
 
 ## Sources checked on 2026-10-28
 
